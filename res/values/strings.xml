@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello</string>
+    <string name="app_name">Ajax\'s Multi Color Flashlight</string>
+   
+	<string name="prompt">Pick a color</string>	
+	<string-array name="color_array">
+	    <item> </item>
+	    <item>Red</item>
+	    <item>Blue</item>
+	    <item>Green</item>
+	    <item>Yellow</item>
+	    <item>Pink</item>
+	    <item>Orange</item>		    
+	</string-array>
+	
+</resources>
